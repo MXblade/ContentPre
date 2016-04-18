@@ -1,4 +1,4 @@
-package bistu.parser;
+﻿package bistu.parser;
 
 import java.io.File;
 import java.io.IOException;

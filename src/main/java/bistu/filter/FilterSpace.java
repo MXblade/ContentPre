@@ -1,4 +1,4 @@
-package bistu.filter;
+﻿package bistu.filter;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

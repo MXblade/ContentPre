@@ -1,4 +1,4 @@
-package bistu.cluster;
+﻿package bistu.cluster;
 
 import java.awt.List;
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package bistu.functions;
+﻿package bistu.functions;
 
 import java.io.BufferedWriter;
 import java.io.File;

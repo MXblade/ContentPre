@@ -1,4 +1,4 @@
-package bistu.extract_content_inf;
+﻿package bistu.extract_content_inf;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
